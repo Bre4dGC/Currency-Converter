@@ -1,0 +1,14 @@
+C:\Users\quest\GitRepos\repos\конвертер валют(usd, rub, euro)\конвертер валют(usd, rub, euro)\bin\Debug\конвертер валют(usd, rub, euro).exe.config
+C:\Users\quest\GitRepos\repos\конвертер валют(usd, rub, euro)\конвертер валют(usd, rub, euro)\bin\Debug\конвертер валют(usd, rub, euro).exe
+C:\Users\quest\GitRepos\repos\конвертер валют(usd, rub, euro)\конвертер валют(usd, rub, euro)\bin\Debug\конвертер валют(usd, rub, euro).pdb
+C:\Users\quest\GitRepos\repos\конвертер валют(usd, rub, euro)\конвертер валют(usd, rub, euro)\obj\Debug\конвертер валют(usd, rub, euro).csproj.AssemblyReference.cache
+C:\Users\quest\GitRepos\repos\конвертер валют(usd, rub, euro)\конвертер валют(usd, rub, euro)\obj\Debug\конвертер валют(usd, rub, euro).csproj.CoreCompileInputs.cache
+C:\Users\quest\GitRepos\repos\конвертер валют(usd, rub, euro)\конвертер валют(usd, rub, euro)\obj\Debug\конвертер валют(usd, rub, euro).exe
+C:\Users\quest\GitRepos\repos\конвертер валют(usd, rub, euro)\конвертер валют(usd, rub, euro)\obj\Debug\конвертер валют(usd, rub, euro).pdb
+C:\Users\quest\GitRepos\repos\конвертер валют(usd, rub, tl)\конвертер валют(usd, rub, euro)\bin\Debug\конвертер валют(usd, rub, euro).exe.config
+C:\Users\quest\GitRepos\repos\конвертер валют(usd, rub, tl)\конвертер валют(usd, rub, euro)\bin\Debug\конвертер валют(usd, rub, euro).exe
+C:\Users\quest\GitRepos\repos\конвертер валют(usd, rub, tl)\конвертер валют(usd, rub, euro)\bin\Debug\конвертер валют(usd, rub, euro).pdb
+C:\Users\quest\GitRepos\repos\конвертер валют(usd, rub, tl)\конвертер валют(usd, rub, euro)\obj\Debug\конвертер валют(usd, rub, euro).csproj.AssemblyReference.cache
+C:\Users\quest\GitRepos\repos\конвертер валют(usd, rub, tl)\конвертер валют(usd, rub, euro)\obj\Debug\конвертер валют(usd, rub, euro).csproj.CoreCompileInputs.cache
+C:\Users\quest\GitRepos\repos\конвертер валют(usd, rub, tl)\конвертер валют(usd, rub, euro)\obj\Debug\конвертер валют(usd, rub, euro).exe
+C:\Users\quest\GitRepos\repos\конвертер валют(usd, rub, tl)\конвертер валют(usd, rub, euro)\obj\Debug\конвертер валют(usd, rub, euro).pdb
